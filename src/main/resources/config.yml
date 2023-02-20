@@ -1,0 +1,10 @@
+Database:
+  address: localhost
+  name: database
+  user: root
+  password: 123456
+#All statistic types for
+# Players: tournamentsWon, tournamentsLost, points, kills
+# Teams: tournamentsWon, tournamentsLost, points
+# Placeholder usage: %nts_[team or player]_[name]_[statistic type]%, ex. %nts_team_Eagles_tournamentsWon%
+# For top use : %nts_[team or player]_top_[number]%, ex. %nts_player_top_3%

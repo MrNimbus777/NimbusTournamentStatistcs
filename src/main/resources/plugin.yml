@@ -1,0 +1,4 @@
+name: NimbusTournamentStatistics
+main: net.nimbus.tournament.statistics.NTStatistics
+version: 1.0
+api-version: 1.18
